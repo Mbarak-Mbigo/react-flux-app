@@ -1,2 +1,2 @@
-# react-redux-app
-## React-Redux practice application.
+# react-flux-app
+## React-flux practice application.
